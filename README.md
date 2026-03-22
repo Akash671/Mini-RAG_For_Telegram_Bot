@@ -1,35 +1,43 @@
-# 📡 Telecom RAG Telegram Bot
+#  Telecom RAG Telegram Bot
 
 An AI-powered Telegram assistant built using a **Retrieval-Augmented Generation (RAG)** architecture.  
 The bot answers telecom-related queries using local documents, maintains short-term conversation memory, and uses SQLite for efficient vector storage and caching.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📄 **Document Retrieval** – Searches local `.txt` files for relevant context  
-- 🧠 **Conversation Memory** – Keeps last 2–3 interactions  
-- ⚡ **Query Caching** – Stores embeddings in SQLite for faster responses  
-- 📦 **Portable Design** – Uses `.env` and relative paths  
-- 🔍 **Source Transparency** – Shows source documents in answers  
+-  **Document Retrieval** – Searches local `.txt` files for relevant context  
+-  **Conversation Memory** – Keeps last 2–3 interactions  
+-  **Query Caching** – Stores embeddings in SQLite for faster responses  
+-  **Portable Design** – Uses `.env` and relative paths  
+-  **Source Transparency** – Shows source documents in answers  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Mini-RAG_For_Telegram_Bot/
+
 ├── data/
+
 ├── app.py
+
 ├── rag2.py
+
 ├── embed.py
+
 ├── db.py
+
 ├── config.py
+
 ├── .env
+
 └── requirements.txt
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone Repo
 git clone <your-repo-url>  
@@ -47,7 +55,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create `.env` file:
 
@@ -56,7 +64,7 @@ TELEGRAM_TOKEN=your_telegram_token
 
 ---
 
-## ⚡ Configuration
+##  Configuration
 
 Update vector DB path (`config.py`)
 VEC0_PATH = r"C:\Users\YOUR_USERNAME\...\sqlite_vec\vec0.dll"
@@ -66,7 +74,7 @@ raw_data_folder_path = r"C:\path\to\data"
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Step 1: Embed Documents  
 python embed.py  
@@ -76,7 +84,7 @@ python app.py
 
 ---
 
-## 💬 Commands
+##  Commands
 
 /start – Start bot  
 /ask <question> – Ask query  
@@ -84,7 +92,7 @@ python app.py
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User sends query  
 2. System checks cache  
@@ -96,18 +104,18 @@ python app.py
 
 ---
 
-## 📸 Demo
+##  Demo
 
 ![Demo](demo.png)
 
 ---
 
-## 📜 License
+##  License
 
 MIT License  
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Akash
