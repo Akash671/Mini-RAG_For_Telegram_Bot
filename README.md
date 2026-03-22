@@ -39,8 +39,8 @@ Mini-RAG_For_Telegram_Bot/
 
 ##  Setup Instructions
 
-### 1. Clone Repo
-git clone <your-repo-url>  
+### 1. Clone the repo, or you can download and unzip it
+git clone https://github.com/Akash671/Mini-RAG_For_Telegram_Bot.git
 cd Mini-RAG_For_Telegram_Bot  
 
 ### 2. Create Virtual Environment
