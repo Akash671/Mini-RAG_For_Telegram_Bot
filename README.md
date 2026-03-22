@@ -60,7 +60,7 @@ pip install -r requirements.txt
 Create `.env` file:
 
 HF_API_TOKEN=your_huggingface_token  
-TELEGRAM_TOKEN=your_telegram_token  
+TELEGRAM_TOKEN=your_telegram_bot_token  
 
 ---
 
@@ -94,12 +94,12 @@ python app.py
 
 ##  How It Works
 
-1. User sends query  
+1. User sends a query from the telegram bot
 2. System checks cache  
-3. Converts query → embedding  
+3. Converts query → embedding  (using all-MiniLM-L6-v2 embedding model from huggingface)
 4. Retrieves top chunks from DB  
 5. Builds prompt + history  
-6. Sends to LLM  
+6. Sends to LLM (using meta-llama/Llama-3.2-1B-Instruct Model from huggingface)
 7. Returns answer + sources  
 
 ---
