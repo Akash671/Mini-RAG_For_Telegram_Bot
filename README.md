@@ -40,18 +40,20 @@ Mini-RAG_For_Telegram_Bot/
 ##  Setup Instructions
 
 ### 1. Clone the repo, or you can download and unzip it
-git clone https://github.com/Akash671/Mini-RAG_For_Telegram_Bot.git
-cd Mini-RAG_For_Telegram_Bot  
+
+$ git clone https://github.com/Akash671/Mini-RAG_For_Telegram_Bot.git
+
+$ cd Mini-RAG_For_Telegram_Bot  
 
 ### 2. Create Virtual Environment
-python -m venv venv  
+$ python -m venv venv  
 
 Activate:  
 Windows: venv\Scripts\activate  
 Mac/Linux: source venv/bin/activate  
 
 ### 3. Install Dependencies
-pip install -r requirements.txt  
+$ pip install -r requirements.txt  
 
 ---
 
@@ -77,10 +79,10 @@ raw_data_folder_path = r"C:\path\to\data"
 ##  Usage
 
 Step 1: Embed Documents  
-python embed.py  
+$ python embed.py  
 
 Step 2: Run Bot  
-python app.py  
+$ python app.py  
 
 ---
 
