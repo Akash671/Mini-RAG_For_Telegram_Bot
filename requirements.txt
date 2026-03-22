@@ -1,0 +1,7 @@
+python-telegram-bot==20.x
+sentence-transformers
+huggingface_hub
+python-dotenv
+sqlite-vec
+requests
+numpy

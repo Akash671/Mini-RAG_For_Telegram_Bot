@@ -1,0 +1,20 @@
+1. How do I activate my new SIM card? Insert the SIM and dial 123; activation takes up to 2 hours.
+2. What is the APN for high-speed data? The APN should be set to 'internet.telecom.com'.
+3. Can I change my phone number? Yes, via the app for a one-time fee of $15.
+4. How do I block a lost SIM? Call our emergency line at 1-800-TELCO-LOST immediately.
+5. Does roaming cost extra? International roaming rates vary by country; check the 'Roaming' tab.
+6. How do I enable Auto-Pay? Go to Billing > Payment Methods > Enable Auto-Pay.
+7. What is the 'Family Plan' discount? Families with 4+ lines get 20% off the total bill.
+8. How do I upgrade my device? Eligible users can upgrade after 12 months of active service.
+9. Why is my internet slow? Check if you have exceeded your high-speed data cap for the month.
+10. Can I pay via Cryptocurrency? Currently, we only accept Credit Cards, Debit Cards, and PayPal.
+11. How do I get an eSIM? Request an eSIM QR code through the 'MyAccount' portal.
+12. Is there a student discount? Yes, students with a valid .edu email get 10% off monthly plans.
+13. How do I set up Voicemail? Hold '1' on your keypad to follow the setup prompts.
+14. Can I use my phone as a hotspot? Yes, tethering is included in all Gold and Platinum plans.
+15. What is the 'Refer a Friend' bonus? Both parties get a $20 credit when the new line stays active for 60 days.
+16. How do I check my contract end date? Text 'CONTRACT' to 8888.
+17. Do you support 5G? Yes, 5G is available in all major metropolitan areas.
+18. Can I merge two accounts? Yes, contact support to initiate a 'Transfer of Ownership'.
+19. How do I update my billing address? Update it under the 'Profile' section in the mobile app.
+20. What is the grace period for late payments? We offer a 5-day grace period before service suspension.

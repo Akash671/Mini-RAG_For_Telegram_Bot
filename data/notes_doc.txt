@@ -1,0 +1,20 @@
+1. 5G Dropouts: If 5G is unstable, advise the customer to switch to 'LTE Only' in settings.
+2. Router Reboot: Standard procedure for home Wi-Fi issues is a 30-second power cycle.
+3. Port-In Delays: Transfers from 'Competitor X' usually take 24-48 hours to complete.
+4. App Login Error 404: Usually caused by cached data; advise clearing app cache.
+5. HLR Reset: Use the 'HLR Trigger' tool for 'No Service' issues on newly activated SIMs.
+6. Voicemail Reset: Resetting a VM password defaults it to the last 4 digits of the phone number.
+7. Signal Dead-zones: Check the internal 'Topography Map' before promising coverage.
+8. Firmware Updates: Push firmware version 2.4.1 to all Model-Z routers to fix Wi-Fi 6 bugs.
+9. iPhone Activation: Ensure 'iMessage' is toggled off and back on if SMS isn't working.
+10. APN Manual Entry: For Android 13+, use 'MNC: 260' and 'MCC: 01'.
+11. Tablet Data: Tablet-only SIMs cannot send or receive standard SMS messages.
+12. Speed Tests: Always ask customers to use the 'Official Telecom Speedtest' for accuracy.
+13. Wi-Fi Calling: Requires a minimum upload speed of 2Mbps for stable audio.
+14. Battery Drain: Excessive 5G searching in low-signal areas causes high battery usage.
+15. MAC Filtering: If a device won't connect to Wi-Fi, check if MAC filtering is ON in the router.
+16. Roaming Partners: In Europe, we prioritize the 'EuroNet' carrier for best speeds.
+17. SMS Gateway: Use gateway 'smtp.telecom.net' for email-to-SMS functionality.
+18. Latency Issues: Gamers complaining of lag should be moved to a 'Static IP' profile.
+19. Fraud Alert: Be cautious of 'Social Engineering' calls asking for PUK codes.
+20. Legacy Plans: Users on the '2015 Unlimited' plan are ineligible for the 5G upgrade.
